@@ -5,3 +5,11 @@
 body {
   margin: 26px;
 }
+
+.privacy_policy {
+  display: none;
+}
+
+.block {
+  display: block;
+}
